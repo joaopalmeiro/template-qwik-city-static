@@ -1,6 +1,6 @@
 # template-qwik-city-static
 
-Opinionated Qwik City + SSG template for new projects.
+Opinionated [Qwik City](https://qwik.dev/) + [SSG](https://qwik.dev/docs/deployments/static/) template for new projects.
 
 ## Development
 
