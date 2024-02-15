@@ -9,6 +9,9 @@
 - https://kinsta.com/docs/static-site-hosting/static-site-quick-start/qwik-static-site-example
 - https://github.com/kinsta/hello-world-qwik
 - https://github.com/BuilderIO/qwik/tree/main/starters/adapters/static
+- `sort-package-json` does not sort scripts if `npm-run-all2` is installed:
+  - https://github.com/keithamus/sort-package-json/pull/309
+  - https://github.com/keithamus/sort-package-json/blob/v2.7.0/index.js#L166
 
 ## Commands
 
