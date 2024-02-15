@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "template-qwik-city-static",
+  "short_name": "template-qwik-city-static",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Opinionated Qwik City + SSG template for new projects."
+}
